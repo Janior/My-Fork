@@ -1,0 +1,11 @@
+ El volumen de la unidad D es Datos
+ El n£mero de serie del volumen es: 841F-EE8D
+
+ Directorio de D:\MakeItReal\My-Fork\My-Fork
+
+27/02/2018  08:00    <DIR>          .
+27/02/2018  08:00    <DIR>          ..
+27/02/2018  08:00                 0 archivo1.txt
+27/02/2018  07:47                76 README.md
+               2 archivos             76 bytes
+               2 dirs  61.902.716.928 bytes libres
